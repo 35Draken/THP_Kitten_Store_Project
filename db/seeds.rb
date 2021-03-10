@@ -9,7 +9,7 @@
 prices = [123.99, 567.99, 1112.99, 138.99, 154.99, 105.99, 163.99, 197.99, 1890.99, 3999.99]
 
  10.times do
-  product.create(title: Faker::Creature::Cat.name, price: prices.sample)
+  Product.create(title: Faker::Creature::Cat.name, price: prices.sample)
  end
 
 #User.create!(email: "admin@admin.com", first_name: "Admin", last_name: "The Boss", password: "admin01", is_admin: true)
