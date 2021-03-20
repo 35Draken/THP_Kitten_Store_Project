@@ -3,13 +3,7 @@
 → This project is running with Ruby on Rails for the back-end side and partly with Bootstrap for the front side.<br> 
 → Features: 
 ```
-- Online store displaying kitten pictures
-- Stripe payments, Mailer for notifications and orders 
-- Admin dashboard
-- Cart
-- User account with profile picture, editing page and password recovery. 
-- Mailer for notifications and orders
-- ...
+
 ```
 #  Specs
 
